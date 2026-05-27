@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#1a8c18"/>
+
+  <!-- Clipboard body -->
+  <rect x="152" y="148" width="208" height="256" rx="18" fill="none" stroke="white" stroke-width="18" stroke-linejoin="round"/>
+
+  <!-- Clipboard top clip -->
+  <rect x="208" y="128" width="96" height="44" rx="12" fill="#1a8c18" stroke="white" stroke-width="18"/>
+
+  <!-- Lightning bolt (centered in clipboard) -->
+  <path d="M275 208 L232 280 H258 L237 344 L284 268 H258 L281 208 Z" fill="white"/>
+</svg>
